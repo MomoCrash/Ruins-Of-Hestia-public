@@ -16,8 +16,8 @@ Projet étudiant réalisé par **9 personnes en 6 semaines**. Jeu de gestion de 
 
 **1. Cloner le repo**
 ```bash
-git clone https://github.com/votre-org/ruins-of-hestia.git
-cd ruins-of-hestia
+git clone https://github.com/MomoCrash/Ruins-Of-Hestia-public/
+cd Ruins-Of-Hestia-public
 ```
 
 **2. Lancer le build**
